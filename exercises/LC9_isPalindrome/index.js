@@ -6,6 +6,8 @@
 // function isPalindrome(-121) --> false
 // function isPalindrome(10) --> false
 
-function isPalindrome(x) {}
+function isPalindrome(x) {
+    
+}
 
 module.exports = isPalindrome;
